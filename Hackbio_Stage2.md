@@ -417,7 +417,7 @@ The volcano plot clearly shows asymmetry between upregulated (red) and downregul
 
 #### Heatmap Interpretation  
 
-![Heatmap of Top 50 DEGs](heatmap.png)
+![Heatmap of Top 50 DEGs](HEATMAP.png)
 
 The heatmap of the top 50 DEGs shows a clear separation between treatment and control groups. Controls cluster tightly with high expression of downregulated genes (blue), whereas treatments cluster together with strong upregulation (red) of specific gene sets. This clustering pattern reinforces that the treatment induced a consistent and reproducible transcriptomic shift across replicates.
 
@@ -525,3 +525,4 @@ Ivanova, A., Law, S. R., Narsai, R., Duncan, O., Lee, J. H., Zhang, B., Van Aken
 Ye, B.-B., Shang, G.-D., Pan, Y., Xu, Z.-G., Zhou, C.-M., Mao, Y.-B., … (et al.). (2020). AP2/ERF transcription factors integrate age and wound signals for root regeneration. The Plant Cell, 32, 226–241.
 
 Ye, Q., Wang, H., Su, T., Wu, W. H., & Chen, Y. F. (2018). The ubiquitin E3 ligase PRU1 regulates WRKY6 degradation to modulate phosphate homeostasis in response to low-Pi stress in Arabidopsis. The Plant Cell, 30(5), 1062–1076. https://doi.org/10.1105/tpc.17.00845
+
